@@ -1,0 +1,1 @@
+"""Paquete para la gestión de configuraciones del algoritmo PSO."""

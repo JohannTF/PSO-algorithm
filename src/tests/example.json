@@ -1,0 +1,13 @@
+{
+    "dimensions": 2,
+    "population_size": 100,
+    "generations": 100,
+    "benchmark": "sphere",
+    "c1": [0.5, 2.5, "decreasing"],
+    "c2": [0.5, 2.5, "increasing"],
+    "runs": 1,
+    "inertia": "linear_decreasing",
+    "single_run_visualization": true,
+    "show_individual_visualizations": true,
+    "output_file": "testing_results"
+}
